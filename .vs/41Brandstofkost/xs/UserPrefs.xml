@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{1050A3F8-EE77-4572-B58B-E7A64F469B3C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Brandstofkost/Program.cs">
+    <Files>
+      <File FileName="Brandstofkost/Program.cs" Line="86" Column="44" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Brandstofkost PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

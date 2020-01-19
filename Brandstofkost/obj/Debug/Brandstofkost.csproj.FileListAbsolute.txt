@@ -1,0 +1,5 @@
+/Users/enrickdemunter/Projects/41Brandstofkost/Brandstofkost/bin/Debug/Brandstofkost.exe
+/Users/enrickdemunter/Projects/41Brandstofkost/Brandstofkost/bin/Debug/Brandstofkost.pdb
+/Users/enrickdemunter/Projects/41Brandstofkost/Brandstofkost/obj/Debug/Brandstofkost.csprojAssemblyReference.cache
+/Users/enrickdemunter/Projects/41Brandstofkost/Brandstofkost/obj/Debug/Brandstofkost.exe
+/Users/enrickdemunter/Projects/41Brandstofkost/Brandstofkost/obj/Debug/Brandstofkost.pdb
